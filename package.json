@@ -25,7 +25,7 @@
 		"access": "public"
 	},
 	"dependencies": {
-		"svelte": "^3.23.0"
+		"svelte": "^3.23.1"
 	},
 	"gitHead": "dfe466340ab76dc7b7f48ff1fb7b8a6e856f10c9"
 }
