@@ -1,5 +1,11 @@
 # @ctx-core/a\_\_target
 
+## 2.1.60
+
+### Patch Changes
+
+- typescript: ^4.1.4 -> ^4.1.5
+
 ## 2.1.59
 
 ### Patch Changes
