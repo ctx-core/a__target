@@ -1,5 +1,11 @@
 # @ctx-core/a\_\_target
 
+## 2.1.70
+
+### Patch Changes
+
+- version bump
+
 ## 2.1.69
 
 ### Patch Changes
