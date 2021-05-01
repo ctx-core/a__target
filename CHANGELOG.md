@@ -1,5 +1,11 @@
 # @ctx-core/a\_\_target
 
+## 2.1.74
+
+### Patch Changes
+
+- update dependencies
+
 ## 2.1.73
 
 ### Patch Changes
