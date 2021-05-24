@@ -1,5 +1,11 @@
 # @ctx-core/a\_\_target
 
+## 2.2.0
+
+### Minor Changes
+
+- dist,types directory: addressing typescript build issues
+
 ## 2.1.76
 
 ### Patch Changes
