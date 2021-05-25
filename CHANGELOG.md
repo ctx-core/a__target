@@ -1,5 +1,11 @@
 # @ctx-core/a\_\_target
 
+## 2.3.0
+
+### Minor Changes
+
+- fix tsc build directory issues
+
 ## 2.2.0
 
 ### Minor Changes

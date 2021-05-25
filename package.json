@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/a__target",
-	"version": "2.2.0",
+	"version": "2.3.0",
 	"description": "A__Target component which sets target to _blank for absolute urls or _self for relative urls",
 	"keywords": [
 		"ctx-core",
@@ -16,13 +16,18 @@
 	},
 	"license": "Apache-2.0",
 	"author": "Brian Takita",
-	"main": "html.js",
-	"module": "html.js",
+	"main": "src/index.js",
+	"module": "src/index.js",
+	"types": "src/index.d.ts",
 	"scripts": {
-		"build": "npm run compile",
+		"build": "npm run clean && npm run compile && npm run symlink",
+		"clean": "rm -f tsconfig.tsbuildinfo",
+		"compile": "./node_modules/.bin/tsc -b .",
+		"symlink": "./node_modules/.bin/symlink_src_assets_to_dist .",
 		"exec": "$@"
 	},
 	"devDependencies": {
+		"@ctx-core/ctx-core-package-tools": "workspace:^6.4.0",
 		"svelte": "3.38.2",
 		"typescript": "^4.2.4"
 	},
