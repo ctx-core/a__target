@@ -1,0 +1,1 @@
+../src/A__Target.svelte
