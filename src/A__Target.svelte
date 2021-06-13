@@ -1,6 +1,6 @@
-<script>
-export let href
-export let target = null
+<script lang="ts">
+export let href:string
+export let target:string|null|undefined = null
 export let alt = ''
 export let title = ''
 let target__
