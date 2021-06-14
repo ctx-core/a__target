@@ -1,5 +1,11 @@
 # @ctx-core/a\_\_target
 
+## 3.0.2
+
+### Patch Changes
+
+- remove npm run symlink
+
 ## 3.0.1
 
 ### Patch Changes
