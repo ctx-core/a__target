@@ -1,5 +1,11 @@
 # @ctx-core/a\_\_target
 
+## 3.0.1
+
+### Patch Changes
+
+- version bump
+
 ## 3.0.0
 
 ### Major Changes
