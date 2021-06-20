@@ -1,5 +1,13 @@
 # @ctx-core/a\_\_target
 
+## 3.0.8
+
+### Patch Changes
+
+- fix: npm run clean
+- Updated dependencies [undefined]
+  - @ctx-core/function@19.1.3
+
 ## 3.0.7
 
 ### Patch Changes
