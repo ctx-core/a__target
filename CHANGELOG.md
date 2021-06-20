@@ -1,5 +1,13 @@
 # @ctx-core/a\_\_target
 
+## 3.0.9
+
+### Patch Changes
+
+- fix: deploying \*.js files
+- Updated dependencies [undefined]
+  - @ctx-core/function@19.1.6
+
 ## 3.0.8
 
 ### Patch Changes
