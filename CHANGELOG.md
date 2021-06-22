@@ -1,5 +1,13 @@
 # @ctx-core/a\_\_target
 
+## 3.0.10
+
+### Patch Changes
+
+- "prepublishOnly": "npm run clean && npm run compile"
+- Updated dependencies [undefined]
+  - @ctx-core/function@19.1.7
+
 ## 3.0.9
 
 ### Patch Changes
