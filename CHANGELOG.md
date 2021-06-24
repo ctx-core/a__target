@@ -1,5 +1,13 @@
 # @ctx-core/a\_\_target
 
+## 3.0.12
+
+### Patch Changes
+
+- tsconfig.json: "lib": ["dom", "ESNext"]
+- Updated dependencies [undefined]
+  - @ctx-core/function@19.1.8
+
 ## 3.0.11
 
 ### Patch Changes
