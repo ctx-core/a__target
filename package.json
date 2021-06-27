@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/a__target",
-	"version": "3.0.14",
+	"version": "3.0.15",
 	"description": "A__Target component which sets target to _blank for absolute urls or _self for relative urls",
 	"keywords": [
 		"ctx-core",
@@ -20,16 +20,18 @@
 	"module": "src/index.js",
 	"types": "src/index.d.ts",
 	"scripts": {
-		"build": "npm run clean && npm run compile",
+		"build": "npm run clean && npm run copy-components && npm run compile",
 		"clean": "rm -f tsconfig.tsbuildinfo && rm -f src/**/*.js && rm -f src/**/*.d.ts && rm -f src/**/*.map",
 		"compile": "./node_modules/.bin/tsc -b .",
-		"exec": "$@"
+		"copy-components": "cd src && find . | grep \\.svelte$ | awk '{print \"mkdir -p dirname \"$1\" && cp -f \"$1\" ../dist/\"$1}'",
+		"exec": "$@",
+		"prepublishOnly": "npm run build"
 	},
 	"dependencies": {
-		"@ctx-core/function": "workspace:^19.1.9"
+		"@ctx-core/function": "workspace:^19.1.10"
 	},
 	"devDependencies": {
-		"@ctx-core/ctx-core-package-tools": "workspace:^8.0.11",
+		"@ctx-core/ctx-core-package-tools": "workspace:^8.0.12",
 		"svelte": "3.38.3",
 		"typescript": "^4.3.4"
 	},

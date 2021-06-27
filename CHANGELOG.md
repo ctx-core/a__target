@@ -1,5 +1,13 @@
 # @ctx-core/a\_\_target
 
+## 3.0.15
+
+### Patch Changes
+
+- dist directory
+- Updated dependencies [undefined]
+  - @ctx-core/function@19.1.10
+
 ## 3.0.14
 
 ### Patch Changes
