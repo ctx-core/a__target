@@ -1,5 +1,11 @@
 # @ctx-core/a\_\_target
 
+## 3.0.18
+
+### Patch Changes
+
+- update dependencies
+
 ## 3.0.17
 
 ### Patch Changes
