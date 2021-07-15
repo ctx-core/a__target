@@ -1,5 +1,13 @@
 # @ctx-core/a\_\_target
 
+## 4.0.2
+
+### Patch Changes
+
+- fix: "type": "module"
+- Updated dependencies [undefined]
+  - @ctx-core/function@20.0.2
+
 ## 4.0.1
 
 ### Patch Changes
