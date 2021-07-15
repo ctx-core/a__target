@@ -1,5 +1,14 @@
 # @ctx-core/a\_\_target
 
+## 4.0.1
+
+### Patch Changes
+
+- 2a6971f80: fix: "type": "module"
+- Updated dependencies [2a6971f80]
+- Updated dependencies [undefined]
+  - @ctx-core/function@20.0.1
+
 ## 4.0.0
 
 ### Major Changes
