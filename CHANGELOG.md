@@ -1,5 +1,16 @@
 # @ctx-core/a\_\_target
 
+## 4.0.0
+
+### Major Changes
+
+- "type": "module": module npm type
+
+### Patch Changes
+
+- Updated dependencies [undefined]
+  - @ctx-core/function@20.0.0
+
 ## 3.0.27
 
 ### Patch Changes
