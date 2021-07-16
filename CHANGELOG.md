@@ -1,5 +1,29 @@
 # @ctx-core/a\_\_target
 
+## 4.0.6
+
+### Patch Changes
+
+- back to esm module with cjs using esm npm package to load library
+- Updated dependencies [undefined]
+  - @ctx-core/function@20.0.5
+
+## 4.0.5
+
+### Patch Changes
+
+- back to esm module with cjs using esm npm package to load library
+- Updated dependencies [undefined]
+  - @ctx-core/function@20.0.4
+
+## 4.0.4
+
+### Patch Changes
+
+- back to esm module with cjs using esm npm package to load library
+- Updated dependencies [undefined]
+  - @ctx-core/function@20.0.4
+
 ## 4.0.3
 
 ### Patch Changes
