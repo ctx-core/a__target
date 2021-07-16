@@ -1,5 +1,13 @@
 # @ctx-core/a\_\_target
 
+## 4.0.8
+
+### Patch Changes
+
+- "main": "./dist/index.cjs"
+- Updated dependencies [undefined]
+  - @ctx-core/function@20.0.7
+
 ## 4.0.7
 
 ### Patch Changes
