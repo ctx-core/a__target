@@ -1,5 +1,13 @@
 # @ctx-core/a\_\_target
 
+## 4.0.3
+
+### Patch Changes
+
+- support cjs & esm: + "exports"
+- Updated dependencies [undefined]
+  - @ctx-core/function@20.0.3
+
 ## 4.0.2
 
 ### Patch Changes
