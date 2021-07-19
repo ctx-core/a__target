@@ -1,5 +1,13 @@
 # @ctx-core/a\_\_target
 
+## 4.0.15
+
+### Patch Changes
+
+- fix: "exports": "./package.json": "./package.json"
+- Updated dependencies [undefined]
+  - @ctx-core/function@20.0.12
+
 ## 4.0.14
 
 ### Patch Changes
