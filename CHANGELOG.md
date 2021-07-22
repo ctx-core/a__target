@@ -1,5 +1,12 @@
 # @ctx-core/a\_\_target
 
+## 4.0.18
+
+### Patch Changes
+
+- svelte: 3.40.0 -> 3.40.1
+- update dependencies
+
 ## 4.0.17
 
 ### Patch Changes
