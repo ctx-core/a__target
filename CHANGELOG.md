@@ -1,5 +1,11 @@
 # @ctx-core/a\_\_target
 
+## 4.0.34
+
+### Patch Changes
+
+- update dependencies
+
 ## 4.0.33
 
 ### Patch Changes
