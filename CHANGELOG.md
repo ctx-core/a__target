@@ -1,5 +1,11 @@
 # @ctx-core/a\_\_target
 
+## 4.0.37
+
+### Patch Changes
+
+- svelte: 3.42.1 -> 3.42.2
+
 ## 4.0.36
 
 ### Patch Changes
