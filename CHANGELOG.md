@@ -1,5 +1,13 @@
 # @ctx-core/a\_\_target
 
+## 4.0.45
+
+### Patch Changes
+
+- typescript: ^4.3.5 -> ^4.4.2
+- Updated dependencies [undefined]
+  - @ctx-core/function@20.1.3
+
 ## 4.0.44
 
 ### Patch Changes
