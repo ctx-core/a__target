@@ -1,5 +1,14 @@
 # @ctx-core/a\_\_target
 
+## 4.0.69
+
+### Patch Changes
+
+- typescript: ^4.4.3 -> ^4.4.4
+- svelte: 3.43.1 -> 3.44.0
+- Updated dependencies [undefined]
+  - @ctx-core/function@20.2.2
+
 ## 4.0.68
 
 ### Patch Changes
