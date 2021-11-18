@@ -1,5 +1,15 @@
 # @ctx-core/a\_\_target
 
+## 4.0.73
+
+### Patch Changes
+
+- typescript: ^4.4.4 -> ^4.5.2
+- @swc/core: ^1.2.108 -> ^1.2.110
+- Updated dependencies
+- Updated dependencies
+  - @ctx-core/function@20.2.5
+
 ## 4.0.72
 
 ### Patch Changes
