@@ -1,5 +1,24 @@
 # @ctx-core/a\_\_target
 
+## 4.0.75
+
+### Patch Changes
+
+- @swc/cli: ^0.1.51 -> ^0.1.52
+- @swc/core: ^1.2.111 -> ^1.2.113
+- Updated dependencies
+- Updated dependencies
+  - @ctx-core/function@20.2.7
+
+## 4.0.74
+
+### Patch Changes
+
+- svelte: 3.44.1 -> 3.44.2
+- @swc/core: ^1.2.110 -> ^1.2.111
+- Updated dependencies
+  - @ctx-core/function@20.2.6
+
 ## 4.0.73
 
 ### Patch Changes
