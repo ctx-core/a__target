@@ -1,5 +1,13 @@
 # @ctx-core/a\_\_target
 
+## 4.0.76
+
+### Patch Changes
+
+- @swc/core: ^1.2.113 -> ^1.2.116
+- Updated dependencies
+  - @ctx-core/function@20.2.8
+
 ## 4.0.75
 
 ### Patch Changes
