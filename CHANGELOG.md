@@ -1,5 +1,11 @@
 # @ctx-core/a\_\_target
 
+## 4.0.81
+
+### Patch Changes
+
+- package.json: - "main": explicitly not support cjs
+
 ## 4.0.80
 
 ### Patch Changes
