@@ -1,5 +1,13 @@
 # @ctx-core/a\_\_target
 
+## 4.0.85
+
+### Patch Changes
+
+- package.json: svelte: ./dist/index.js
+- Updated dependencies
+  - @ctx-core/function@20.2.13
+
 ## 4.0.84
 
 ### Patch Changes
