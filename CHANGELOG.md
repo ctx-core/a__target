@@ -1,5 +1,13 @@
 # @ctx-core/a\_\_target
 
+## 4.0.88
+
+### Patch Changes
+
+- \*.d.ts export
+- Updated dependencies
+  - @ctx-core/function@20.2.16
+
 ## 4.0.87
 
 ### Patch Changes
