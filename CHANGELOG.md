@@ -1,5 +1,13 @@
 # @ctx-core/a\_\_target
 
+## 4.0.91
+
+### Patch Changes
+
+- tsconfig.json: "target": "ES2021"
+- Updated dependencies
+  - @ctx-core/function@20.2.19
+
 ## 4.0.90
 
 ### Patch Changes
