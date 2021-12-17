@@ -1,5 +1,13 @@
 # @ctx-core/a\_\_target
 
+## 4.0.90
+
+### Patch Changes
+
+- package.json: "types": "./src/index.ts": better editing experience
+- Updated dependencies
+  - @ctx-core/function@20.2.18
+
 ## 4.0.89
 
 ### Patch Changes
