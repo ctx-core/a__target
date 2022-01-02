@@ -1,5 +1,13 @@
 # @ctx-core/a\_\_target
 
+## 4.0.93
+
+### Patch Changes
+
+- .js + .d.ts instead of .ts
+- Updated dependencies
+  - @ctx-core/function@20.2.21
+
 ## 4.0.92
 
 ### Patch Changes
