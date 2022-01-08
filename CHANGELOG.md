@@ -1,5 +1,13 @@
 # @ctx-core/a\_\_target
 
+## 4.0.96
+
+### Patch Changes
+
+- sideEffects = false
+- Updated dependencies
+  - @ctx-core/function@20.2.25
+
 ## 4.0.95
 
 ### Patch Changes
