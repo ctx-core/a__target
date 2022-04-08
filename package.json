@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/a__target",
-	"version": "4.0.99",
+	"version": "4.0.100",
 	"description": "A__Target component which sets target to _blank for absolute urls or _self for relative urls",
 	"keywords": [
 		"ctx-core",
@@ -41,12 +41,12 @@
 		"@sveltejs/adapter-auto": "next",
 		"@sveltejs/kit": "next",
 		"@swc/cli": "^0.1.57",
-		"@swc/core": "^1.2.163",
+		"@swc/core": "^1.2.164",
 		"rimraf": "^3.0.2",
-		"svelte": "^3.46.6",
-		"svelte-check": "^2.4.6",
+		"svelte": "^3.47.0",
+		"svelte-check": "^2.5.0",
 		"svelte-preprocess": "^4.10.5",
-		"svelte2tsx": "^0.5.6",
+		"svelte2tsx": "^0.5.7",
 		"tslib": "^2.3.1",
 		"typescript": "next"
 	},
