@@ -1,5 +1,13 @@
 # @ctx-core/a\_\_target
 
+## 4.0.102
+
+### Patch Changes
+
+- package.json: exports: update
+- Updated dependencies
+  - @ctx-core/function@20.6.1
+
 ## 4.0.101
 
 ### Patch Changes
