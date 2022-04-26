@@ -1,5 +1,11 @@
 # @ctx-core/a\_\_target
 
+## 4.0.107
+
+### Patch Changes
+
+- @ctx-core/array: 26.2.0
+
 ## 4.0.106
 
 ### Patch Changes
