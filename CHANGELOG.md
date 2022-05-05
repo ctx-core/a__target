@@ -1,5 +1,11 @@
 # @ctx-core/a\_\_target
 
+## 4.0.110
+
+### Patch Changes
+
+- @ctx-core/function: 20.8.0
+
 ## 4.0.109
 
 ### Patch Changes
