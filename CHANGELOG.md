@@ -1,5 +1,11 @@
 # @ctx-core/a\_\_target
 
+## 4.0.112
+
+### Patch Changes
+
+- .js + .d.ts instead of .ts
+
 ## 4.0.111
 
 ### Patch Changes
