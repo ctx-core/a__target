@@ -1,5 +1,18 @@
 # @ctx-core/a\_\_target
 
+## 4.0.118
+
+### Patch Changes
+
+- @ctx-core/function: 21.0.0
+
+## 4.0.117
+
+### Patch Changes
+
+- Updated dependencies
+  - @ctx-core/function@21.0.0
+
 ## 4.0.116
 
 ### Patch Changes
