@@ -1,5 +1,14 @@
 # @ctx-core/a\_\_target
 
+## 4.0.119
+
+### Patch Changes
+
+- svelte-check: ^2.8.1 -> ^2.9.0
+- svelte2tsx: ^0.5.14 -> ^0.5.15
+- Updated dependencies
+  - @ctx-core/function@21.0.1
+
 ## 4.0.118
 
 ### Patch Changes
