@@ -1,5 +1,12 @@
 # @ctx-core/a\_\_target
 
+## 4.0.132
+
+### Patch Changes
+
+- svelte2tsx: ^0.5.21 -> ^0.5.22
+- svelte-check: ^2.10.0 -> ^2.10.1
+
 ## 4.0.131
 
 ### Patch Changes
