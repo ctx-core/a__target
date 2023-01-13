@@ -1,5 +1,11 @@
 # @ctx-core/a\_\_target
 
+## 4.0.140
+
+### Patch Changes
+
+- rimraf: ^3.0.2 -> ^4.0.1
+
 ## 4.0.139
 
 ### Patch Changes
