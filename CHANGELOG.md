@@ -1,5 +1,11 @@
 # @ctx-core/a\_\_target
 
+## 4.0.142
+
+### Patch Changes
+
+- svelte-preprocess: ^5.0.0 -> ^5.0.1
+
 ## 4.0.141
 
 ### Patch Changes
