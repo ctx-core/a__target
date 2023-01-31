@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/a__target",
-	"version": "4.0.143",
+	"version": "4.0.144",
 	"description": "A__Target component which sets target to _blank for absolute urls or _self for relative urls",
 	"keywords": [
 		"ctx-core",
@@ -33,7 +33,7 @@
 		"prepublishOnly": "npm run clean && npm run build"
 	},
 	"dependencies": {
-		"@ctx-core/function": "^21.6.0"
+		"@ctx-core/function": "^21.6.1"
 	},
 	"devDependencies": {
 		"@sveltejs/adapter-auto": "next",
