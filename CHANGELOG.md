@@ -1,5 +1,11 @@
 # @ctx-core/a\_\_target
 
+## 4.0.145
+
+### Patch Changes
+
+- @swc/core: ^1.3.31 -> ^1.3.32
+
 ## 4.0.144
 
 ### Patch Changes
