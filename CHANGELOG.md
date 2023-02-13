@@ -1,5 +1,11 @@
 # @ctx-core/a\_\_target
 
+## 4.1.0
+
+### Minor Changes
+
+- extract _.js & _.d.ts into directories
+
 ## 4.0.146
 
 ### Patch Changes
