@@ -1,1 +1,1 @@
-export * from './A__Target'
+export * from './A__Target/index.js'
