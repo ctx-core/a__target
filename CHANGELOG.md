@@ -1,5 +1,13 @@
 # @ctx-core/a\_\_target
 
+## 4.1.7
+
+### Patch Changes
+
+- @ctx-core/function: ^21.9.0 -> ^21.10.0
+- Updated dependencies
+  - @ctx-core/function@21.10.1
+
 ## 4.1.6
 
 ### Patch Changes
