@@ -1,5 +1,13 @@
 # @ctx-core/a\_\_target
 
+## 4.1.40
+
+### Patch Changes
+
+- @ctx-core/monorepo: ^20.3.3 -> ^20.3.4
+- Updated dependencies
+  - @ctx-core/function@21.17.19
+
 ## 4.1.39
 
 ### Patch Changes
