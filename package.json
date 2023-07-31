@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/a__target",
-	"version": "4.1.51",
+	"version": "4.1.52",
 	"description": "A__Target component which sets target to _blank for absolute urls or _self for relative urls",
 	"keywords": [
 		"ctx-core",
@@ -33,7 +33,7 @@
 	},
 	"dependencies": {
 		"@ctx-core/function": "^21.19.0",
-		"svelte": "^4.1.1"
+		"svelte": "^4.1.2"
 	},
 	"devDependencies": {
 		"c8": "^8.0.1",
