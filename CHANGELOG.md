@@ -1,5 +1,14 @@
 # @ctx-core/a\_\_target
 
+## 4.1.57
+
+### Patch Changes
+
+- tsx: ^3.13.0 -> ^3.14.0
+- svelte: ^4.2.1 -> ^4.2.2
+- Updated dependencies
+  - @ctx-core/function@21.20.2
+
 ## 4.1.56
 
 ### Patch Changes
