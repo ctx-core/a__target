@@ -1,5 +1,11 @@
 # @ctx-core/a\_\_target
 
+## 4.2.2
+
+### Patch Changes
+
+- fix: missing tsconfig.json
+
 ## 4.2.1
 
 ### Patch Changes
