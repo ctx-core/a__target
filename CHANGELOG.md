@@ -1,5 +1,11 @@
 # @ctx-core/a\_\_target
 
+## 4.2.6
+
+### Patch Changes
+
+- tsx: ^4.1.3 -> ^4.1.4
+
 ## 4.2.5
 
 ### Patch Changes
