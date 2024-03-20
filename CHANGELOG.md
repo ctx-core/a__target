@@ -1,5 +1,11 @@
 # @ctx-core/a\_\_target
 
+## 4.2.19
+
+### Patch Changes
+
+- package.json: author: url,email
+
 ## 4.2.18
 
 ### Patch Changes
