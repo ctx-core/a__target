@@ -1,5 +1,11 @@
 # @ctx-core/a\_\_target
 
+## 4.2.28
+
+### Patch Changes
+
+- chore: migrate scripts from pnpm to bun
+
 ## 4.2.27
 
 ### Patch Changes
